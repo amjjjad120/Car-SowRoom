@@ -1,0 +1,143 @@
+body{
+
+    /* background: linear-gradient(to left , rgb(0, 0, 0),rgba(32, 0, 216, 0.712)); */
+
+    background-image: url(../image/٢٠٢٤٠٤٣٠_١٦٤٨٤٣.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+
+}
+.f{
+
+    position: absolute;
+    width: 50%;
+    height: 10%;
+    left: 35%;
+    top: 256%;
+    background: #0000d2;
+z-index: 1;
+    border-radius: 120px;
+    box-shadow: 0px 0px 20px 0px black;
+
+}
+.ff{
+    position: absolute;
+    width: 40%;
+    height: 10%;
+    left: 40%;
+    top: 130%;
+    background: #0000d2;
+z-index: 1;
+    border-radius: 120px;
+    box-shadow: 0px 0px 20px 0px black;
+
+
+}
+nav h1{
+    position: absolute;
+    left: 187px;
+    font-size: 245%;
+    color: rgb(255, 166, 0);
+    top: -25px;
+    z-index: 104;
+    font-family: cursive;
+
+
+
+}
+#nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin: 30px;
+    font-size: 30px;
+
+}
+#nav a:hover{
+background: white;
+color: black;
+padding: 20px;
+border-radius: 10px;
+
+
+}
+nav{
+/* display: none; */
+position: fixed;
+background: #000000ee;
+width: 95%;
+text-align: end;
+padding: 20px;
+top: 0px;
+z-index: 98;
+overflow: hidden;
+
+
+}
+.btn1{
+    background: #1717ff;
+    width: 75px;
+    height: 40px;
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+z-index: 100;
+}
+#btn2{
+
+    background: red;
+    width: 75px;
+    height: 40px;
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    z-index: 99;
+
+
+}
+h3{
+    font-size: 30%;
+    color: white;
+    position: absolute;
+    left: 104%;
+    top: 28%;
+  
+}
+#error{
+
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    left: 70%;
+    top: 38%;
+}
+.try{
+    position: absolute;
+    left: 1100px;
+    top: 400px;
+    padding: 30px;
+    font-size: 20px;
+    background: url(../image/restart_208px.png);
+    background-size:contain ; 
+    background-repeat: no-repeat;
+    border: none;
+display: none;
+
+}
+#logo{
+
+    position: absolute;
+    width: 107px;
+    height: 200px;
+    top: -85%;
+    left: 12%;
+    background: white;
+    
+}

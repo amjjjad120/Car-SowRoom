@@ -1,0 +1,99 @@
+.developers{
+
+    position: absolute;
+    top: 380%;
+    width: 96%;
+    height: 70%;
+    /* background: rgb(255, 213, 213); */
+
+display: flex;
+}
+.dev{
+    
+border-left: 1px solid black;
+
+width: 25%;
+height: 145%;   
+
+}
+.imgdev{
+
+background: rgb(202, 203, 255);
+width: 75%;
+    height: 30%;
+    border-radius: 50%;
+    margin-left: 15%;
+}
+.imgdev img
+{
+    width: 75%;
+    height: 120%;
+    margin: 25%;
+    top: -55%;
+    left: -13%;
+    position: relative;
+
+}
+.socialmedia{
+
+    position: absolute;
+    top: 477%;
+    background: rgb(178, 164, 255);
+    width: 50%;
+    height: 10%;
+    left: 25%;
+    border-radius: 40px;
+    display: flex;
+    z-index: 20;
+
+
+}
+.socialmedia .asd{
+
+    position: absolute;
+}
+
+.social{
+
+position: relative;
+top: -5%;
+    padding-left: 10%;
+    width: 13%;
+    height: 100%;
+   
+}
+.namesoci{
+color: black;
+position: absolute;
+padding: 10px;
+border-radius: 30px;
+box-shadow: 0px 0px 20px -5px;
+font-size: 30px;
+    transition: 1s;
+
+
+}
+.socialname{
+
+     position: absolute;
+    background: none;
+    
+
+    left: 28%;
+    top: 455%;
+
+    display: flex;
+
+}
+.imgdev h1{
+
+    position: absolute;
+    top: 45%;
+    font-family: cursive;
+}
+.imgdev h4{
+    position: absolute;
+    top: 54%;
+    /* left: 10%; */
+    margin-left: 7%;
+}

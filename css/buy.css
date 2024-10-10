@@ -1,0 +1,84 @@
+.cont{
+
+    position: absolute;
+    top: 262%;
+    left: 6%;
+    width: 90%;
+    height: 90%;
+   background: rgb(0, 0, 0);
+border-radius: 20px;
+}
+.cont #asd{
+    position: absolute;
+
+    width: 43%;
+    height: 100%;
+    top: 0%;
+    left: 60%;
+
+
+
+}
+
+.box-buy{
+    
+    top: 1785px;
+    left: 100px;
+    margin-bottom: 60px;
+    margin-left: 25px;
+    margin-top: 25px;
+    width: 400px;
+    height: 350px;
+   
+
+
+}
+.box-buy input{
+
+width: 400px;
+height: 40px;
+border-radius: 20px;
+margin: 3px;
+}
+#paybuy{
+position: absolute;
+background: blue;
+margin: 10px;
+color: white;
+font-size: x-large;
+font-family: fantasy;
+
+
+}
+
+select{
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 10px;
+
+
+}
+.img-buy{
+
+
+    width: 70%;
+    height: 70%;
+    
+    top: 25%;
+    left: 12%;
+
+}
+
+.box-buy label{
+
+color: antiquewhite;
+
+}
+#su{
+    position: absolute;
+    color: white;
+    font-size: 275%;
+    top: 15%;
+    left: 10%;
+}
